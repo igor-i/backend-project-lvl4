@@ -1,0 +1,22 @@
+{
+  "name": "backend-project-lvl4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-i/backend-project-lvl4.git"
+  },
+  "author": "Igor Inkovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igor-i/backend-project-lvl4/issues"
+  },
+  "homepage": "https://github.com/igor-i/backend-project-lvl4#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
